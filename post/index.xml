@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Tan Jing Yu, Denis (陈劲宇)</title>
+    <link>https://denistanjingyu.github.io/Portfolio/post/</link>
+    <description>Recent content in Projects on Tan Jing Yu, Denis (陈劲宇)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://denistanjingyu.github.io/Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Customer Support Chatbot</title>
+      <link>https://denistanjingyu.github.io/Portfolio/post/project-11/</link>
+      <pubDate>Tue, 01 Sep 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://denistanjingyu.github.io/Portfolio/post/project-11/</guid>
+      <description>Created a customer support chat bot for 7 types of intent, trained using artificial neural network in PyTorch Performed text pre-processing using tokenization, stemming and bag-of-words model  Click here to find out more!</description>
+    </item>
+    
+    <item>
+      <title>NLP with BERT for Sentiment Analysis on IMDb Movie Reviews</title>
+      <link>https://denistanjingyu.github.io/Portfolio/post/project-10/</link>
+      <pubDate>Tue, 01 Sep 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://denistanjingyu.github.io/Portfolio/post/project-10/</guid>
+      <description>Performed sentiment analysis on IMDb movie reviews using BERT language model and achieved a test accuracy of 94%  Click here to find out more!</description>
+    </item>
+    
+    <item>
+      <title>Instacart Market Basket Analysis</title>
+      <link>https://denistanjingyu.github.io/Portfolio/post/project-12/</link>
+      <pubDate>Wed, 01 Jan 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://denistanjingyu.github.io/Portfolio/post/project-12/</guid>
+      <description>Provided analytical methods for Instacart to gain an edge over its competitors Used association rule mining to find out which products were frequently bought together  Click here to find out more!</description>
+    </item>
+    
+    <item>
+      <title>LTA Mobility Sensing Project for Land Transport Master Plan (LTMP) 2040</title>
+      <link>https://denistanjingyu.github.io/Portfolio/post/project-2/</link>
+      <pubDate>Tue, 01 Oct 2019 11:15:58 -0400</pubDate>
+      
+      <guid>https://denistanjingyu.github.io/Portfolio/post/project-2/</guid>
+      <description>Collected and analyzed 8 types of raw telemetry data for user trajectory prediction Reduced the number of features from 216 to 48 using principal component analysis Developed a LightGBM model using a statistical feature-based approach with ±98% macro-F1 score, optimized for battery usage by eliminating the need for GPS  Click here to find out more!</description>
+    </item>
+    
+    <item>
+      <title>IBM HR Analytics</title>
+      <link>https://denistanjingyu.github.io/Portfolio/post/project-3/</link>
+      <pubDate>Tue, 01 Oct 2019 11:14:48 -0400</pubDate>
+      
+      <guid>https://denistanjingyu.github.io/Portfolio/post/project-3/</guid>
+      <description>Leveraged external data and machine learning algorithms to accurately assess and shortlist candidates with the relevant skill-sets, experience and psycho-emotional traits Matched employees with relevant job openings to drive operational efficiency and improve accuracy in the matching process  Click here to find out more!</description>
+    </item>
+    
+    <item>
+      <title>Gender Discrimination</title>
+      <link>https://denistanjingyu.github.io/Portfolio/post/project-14/</link>
+      <pubDate>Sun, 01 Sep 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://denistanjingyu.github.io/Portfolio/post/project-14/</guid>
+      <description>Utilized data visualization to examine whether gender discrimination influence exists or not on payments and promotion  Click here to find out more!</description>
+    </item>
+    
+    <item>
+      <title>An Economic Perspective on Predictive Maintenance of Filtration Units</title>
+      <link>https://denistanjingyu.github.io/Portfolio/post/project-1/</link>
+      <pubDate>Thu, 01 Aug 2019 11:25:05 -0400</pubDate>
+      
+      <guid>https://denistanjingyu.github.io/Portfolio/post/project-1/</guid>
+      <description>Performed 5 attack scenarios on the secure water treatment test-bed and collected the sensor data for model development
+  Analyzed the financial impact of Industry 4.0 levers such as IoT enabled sensors on businesses
+  Utilized Monte Carlo simulation to model risk and uncertainty for 4 cost savings categories due to model instability
+  Click here to find out more!</description>
+    </item>
+    
+    <item>
+      <title>Decision Making with Programming and Analytics Project</title>
+      <link>https://denistanjingyu.github.io/Portfolio/post/project-4/</link>
+      <pubDate>Thu, 01 Aug 2019 11:13:32 -0400</pubDate>
+      
+      <guid>https://denistanjingyu.github.io/Portfolio/post/project-4/</guid>
+      <description>Analyzed data to help with understanding customer buying patterns, geographical distribution of transactions, stocks item analysis and forecast Provided insights to establish appropriate customer loyalty program, decide upon regional focus, and guide future stock up timing Created a command line user interface which allows user to query data  Click here to find out more!</description>
+    </item>
+    
+    <item>
+      <title>Designing and Developing Databases - National Fitness Challenge</title>
+      <link>https://denistanjingyu.github.io/Portfolio/post/project-5/</link>
+      <pubDate>Thu, 01 Aug 2019 11:00:59 -0400</pubDate>
+      
+      <guid>https://denistanjingyu.github.io/Portfolio/post/project-5/</guid>
+      <description>Designed and developed a database solution to store information about national fitness challenge Implemented a relational database using MySQL and a non-relational database using MongoDB Performed queries on both databases to demonstrate the trade-offs between both types  Click here to find out more!</description>
+    </item>
+    
+    <item>
+      <title>Predicting Diabetes</title>
+      <link>https://denistanjingyu.github.io/Portfolio/post/project-7/</link>
+      <pubDate>Thu, 01 Aug 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://denistanjingyu.github.io/Portfolio/post/project-7/</guid>
+      <description>Developed a logistic regression model and a Classification And Regression Tree (CART) model to predict diabetes outcome Provided insights on the important variables associated with diabetes  Click here to find out more!</description>
+    </item>
+    
+    <item>
+      <title>Obstacle Game</title>
+      <link>https://denistanjingyu.github.io/Portfolio/post/project-6/</link>
+      <pubDate>Mon, 01 Jul 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://denistanjingyu.github.io/Portfolio/post/project-6/</guid>
+      <description>Created a simple obstacle game where you have to move past the enemy characters and reach the treasure  Click here to find out more!</description>
+    </item>
+    
+    <item>
+      <title>Scraping Stack Overflow</title>
+      <link>https://denistanjingyu.github.io/Portfolio/post/project-9/</link>
+      <pubDate>Sat, 01 Jun 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://denistanjingyu.github.io/Portfolio/post/project-9/</guid>
+      <description>Retrieve questions with most number of votes Retrieve top languages and tag counts  Click here to find out more!</description>
+    </item>
+    
+    <item>
+      <title>Stock Analysis</title>
+      <link>https://denistanjingyu.github.io/Portfolio/post/project-8/</link>
+      <pubDate>Sat, 01 Jun 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://denistanjingyu.github.io/Portfolio/post/project-8/</guid>
+      <description>Analyze McDonald versus Microsoft (Correlation coefficient and Spearman Rank Coefficient)  Click here to find out more!</description>
+    </item>
+    
+    <item>
+      <title>To-Do List</title>
+      <link>https://denistanjingyu.github.io/Portfolio/post/project-13/</link>
+      <pubDate>Sat, 01 Jun 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://denistanjingyu.github.io/Portfolio/post/project-13/</guid>
+      <description>Simple program to open json file and read the contents Added a few functions to add task input, remove task number input  Click here to find out more!</description>
+    </item>
+    
+  </channel>
+</rss>
